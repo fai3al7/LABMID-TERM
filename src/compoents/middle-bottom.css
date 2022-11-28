@@ -1,0 +1,33 @@
+#middle-bottom{
+    display: flex;
+    height: 100%;
+    margin-top: 25px;
+    border-top: 1px solid grey;
+    margin-bottom: 20px;
+    
+
+}
+    #informer-container{
+        flex: 1;
+        padding: 10px;
+    }
+    #men-container{
+        flex: 1;
+        padding: 5px;
+
+    }
+        #row-container{
+
+            display: flex;
+            justify-content: space-between;
+                
+        }
+            
+
+    #cocacola-logo{
+        width: 70%;
+    }
+    #women-container{
+        flex: 1;
+
+    }
